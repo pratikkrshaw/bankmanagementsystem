@@ -1,0 +1,23 @@
+08/06/2022[15:18] : Account Opening Charge Rs.4500.0
+08/06/2022[15:17] : Money Received Rs.149.0 from Pratik Shaw
+08/06/2022[15:31] : Account Deactivated!
+08/06/2022[15:35] : Account Deactivated!
+08/06/2022[15:38] : Account Deactivated!
+08/06/2022[15:40] : Account Deactivated!
+08/06/2022[15:41] : Account Deactivated!
+08/06/2022[15:43] : Account Deactivated!
+09/06/2022[01:14] : Money Received Rs.100.0 from Pratik Shaw
+09/06/2022[15:20] : Money Received Rs.100.0 from Pratik Shaw
+09/06/2022[16:11] : Account Deactivated!
+09/06/2022[16:11] :Account Activated
+09/06/2022[16:14] : Account Deactivated!
+09/06/2022[16:15] :Account Activated
+09/06/2022[16:28] : Money Transfered Rs.100.0 to Pratik Shaw
+09/06/2022[16:30] : Money Transfered Rs.100.0 to gfgfdg
+09/06/2022[16:30] : Money Transfered Rs.100.0 to gfgfdg
+09/06/2022[22:51] : Money Received Rs.121.0 from Rittik Kumar Shaw
+14/06/2022[23:42] : Account Deactivated!
+14/06/2022[23:43] : Account Activated!
+17/06/2022[17:45] : Money Received Rs.100.0 from Rohan
+17/06/2022[17:47] : Money Transfered Rs.70.0 to Rohan
+20/06/2022[11:42] : Money Received Rs.100.0 from Pratik Shaw

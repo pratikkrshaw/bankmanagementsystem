@@ -1,0 +1,285 @@
+09/06/2022[14:58] :Password Changed!
+09/06/2022[14:58] :User Logged In!
+09/06/2022[14:58] :User Logged Out!
+
+09/06/2022[14:58] :User Logged In!
+09/06/2022[14:58] :User Logged Out!
+
+09/06/2022[14:58] :User Logged In!
+09/06/2022[14:58] :User Logged Out!
+
+09/06/2022[15:10] :User Logged In!
+09/06/2022[15:10] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+09/06/2022[15:10] :Searched Using Name: Neha Shaw and Found 1 results
+09/06/2022[15:10] :Searched Using Name: shfsj and Found 0 results
+09/06/2022[15:10] :Transaction History Of User Having Account No.: 78546422
+09/06/2022[15:10] :Changed Password
+09/06/2022[15:10] :User Logged Out!
+
+09/06/2022[15:17] :User Logged In!
+09/06/2022[15:17] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+09/06/2022[15:18] :Searched Using Name: Pratik Shaw and Found 2 results
+09/06/2022[15:18] :Transaction History Of User Having Account No.: 94535577
+09/06/2022[15:18] :Changed Password
+09/06/2022[15:19] :Account Lock Of Pratik Shaw ,Having Account No. 94535577
+09/06/2022[15:19] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+09/06/2022[15:19] :Account Unlock Of Pratik Shaw ,Having Account No. 94535577
+09/06/2022[15:19] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+09/06/2022[15:19] :User Logged Out!
+
+09/06/2022[16:01] :User Logged In!
+09/06/2022[16:02] :Account Activated Of Pratik Shaw ,Having Account No. 76391364
+09/06/2022[16:03] :Searched Account Details Of: Pratik Shaw ,Having Account No. 76391364
+09/06/2022[16:03] :Account Activated Of Neha Shaw ,Having Account No. 64647922
+09/06/2022[16:03] :User Logged Out!
+
+09/06/2022[16:06] :User Logged In!
+09/06/2022[16:06] :User Logged Out!
+
+09/06/2022[16:08] :User Logged In!
+09/06/2022[16:08] :User Logged Out!
+
+09/06/2022[16:11] :User Logged In!
+09/06/2022[16:12] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+09/06/2022[16:14] :User Logged In!
+09/06/2022[16:15] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+09/06/2022[16:15] : Account Activated Of Neha Shaw ,Having Account No. 64647922
+09/06/2022[16:15] :Transaction History Of User Having Account No.: 64647922
+09/06/2022[16:16] :User Logged Out!
+
+09/06/2022[16:19] :User Logged In!
+09/06/2022[16:19] :Transaction History Of User Having Account No.: 94535577
+09/06/2022[16:19] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+09/06/2022[16:20] :Account Activated Of Pratik Shaw ,Having Account No. 94535577
+09/06/2022[16:20] :Transaction History Of User Having Account No.: 94535577
+09/06/2022[16:20] :User Logged Out!
+
+09/06/2022[16:29] :User Logged In!
+09/06/2022[16:29] :Account Lock Of Pratik Shaw ,Having Account No. 76391364
+09/06/2022[16:29] :User Logged Out!
+
+09/06/2022[20:00] :User Logged In!
+09/06/2022[20:00] :Searched Using Name: Pratik Shaw and Found 2 results
+09/06/2022[20:00] :Searched Using Name: Pratik Shaw and Found 2 results
+09/06/2022[20:00] :Account Activated Of Pratik Shaw ,Having Account No. 94535577
+09/06/2022[20:01] :User Logged Out!
+
+09/06/2022[22:52] :User Logged In!
+09/06/2022[22:52] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+09/06/2022[22:52] :Transaction History Of User Having Account No.: 64647922
+09/06/2022[22:53] :Transaction History Of User Having Account No.: 98160792
+09/06/2022[22:54] :Searched Account Details Of: Rittik Kumar Shaw ,Having Account No. 98160792
+09/06/2022[22:54] :Searched Using Name: Rittik Kumar Shaw and Found 1 results
+09/06/2022[22:55] :User Logged Out!
+
+09/06/2022[23:01] :Password Changed using "Forgot your password"!
+09/06/2022[23:02] :User Logged In!
+09/06/2022[23:02] :User Logged Out!
+
+09/06/2022[23:12] :User Logged In!
+09/06/2022[23:12] :User Logged Out!
+
+09/06/2022[23:30] :User Logged In!
+09/06/2022[23:30] :User Logged Out!
+
+10/06/2022[15:52] :User Logged In!
+10/06/2022[15:52] :User Logged Out!
+
+10/06/2022[16:06] :User Logged In!
+10/06/2022[16:06] :Searched Using Name: Pratik Shaw and Found 2 results
+10/06/2022[16:06] :Account Unlock Of Pratik Shaw ,Having Account No. 76391364
+10/06/2022[16:07] :Searched Account Details Of: Pratik Shaw ,Having Account No. 76391364
+10/06/2022[16:07] :User Logged Out!
+
+10/06/2022[17:05] :User Logged In!
+10/06/2022[17:05] :User Logged Out!
+
+14/06/2022[23:42] :User Logged In!
+14/06/2022[23:42] :Searched Using Name: Neha Shaw and Found 1 results
+14/06/2022[23:43] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+14/06/2022[23:43] :Account Activated Of Neha Shaw ,Having Account No. 64647922
+14/06/2022[23:43] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+14/06/2022[23:43] :Searched Using Name: Pratik Shaw and Found 2 results
+14/06/2022[23:44] :Account Activated Of Pratik Shaw ,Having Account No. 94535577
+14/06/2022[23:44] :User Logged Out!
+
+14/06/2022[23:44] :User Logged In!
+14/06/2022[23:44] :User Logged Out!
+
+14/06/2022[23:47] :User Logged In!
+14/06/2022[23:47] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+14/06/2022[23:47] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+14/06/2022[23:48] :User Logged Out!
+
+14/06/2022[23:49] :User Logged In!
+14/06/2022[23:49] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+14/06/2022[23:51] :User Logged In!
+14/06/2022[23:51] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+14/06/2022[23:51] :User Logged Out!
+
+14/06/2022[23:52] :User Logged In!
+14/06/2022[23:52] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+14/06/2022[23:52] :User Logged Out!
+
+14/06/2022[23:53] :User Logged In!
+14/06/2022[23:53] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+14/06/2022[23:53] :User Logged Out!
+
+14/06/2022[23:54] :User Logged In!
+14/06/2022[23:54] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+14/06/2022[23:55] :User Logged Out!
+
+14/06/2022[23:55] :User Logged In!
+14/06/2022[23:55] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+14/06/2022[23:56] :User Logged Out!
+
+14/06/2022[23:58] :User Logged In!
+14/06/2022[23:58] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+14/06/2022[23:58] :User Logged Out!
+
+14/06/2022[23:59] :User Logged In!
+14/06/2022[23:59] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+14/06/2022[23:59] :User Logged Out!
+
+15/06/2022[00:00] :User Logged In!
+15/06/2022[00:00] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:00] :User Logged Out!
+
+15/06/2022[00:01] :User Logged In!
+15/06/2022[00:01] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:01] :User Logged Out!
+
+15/06/2022[00:03] :User Logged In!
+15/06/2022[00:03] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:03] :User Logged Out!
+
+15/06/2022[00:04] :User Logged In!
+15/06/2022[00:04] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:04] :User Logged Out!
+
+15/06/2022[00:05] :User Logged In!
+15/06/2022[00:05] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:05] :User Logged Out!
+
+15/06/2022[00:08] :User Logged In!
+15/06/2022[00:08] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:08] :User Logged Out!
+
+15/06/2022[00:11] :User Logged In!
+15/06/2022[00:11] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:11] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:11] :User Logged Out!
+
+15/06/2022[00:15] :User Logged In!
+15/06/2022[00:15] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:15] :User Logged Out!
+
+15/06/2022[00:18] :User Logged In!
+15/06/2022[00:18] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:18] :User Logged Out!
+
+15/06/2022[00:19] :User Logged In!
+15/06/2022[00:19] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:19] :User Logged Out!
+
+15/06/2022[00:20] :User Logged In!
+15/06/2022[00:21] :Searched Account Details Of: Neha Shaw ,Having Account No. 64647922
+15/06/2022[00:24] :User Logged In!
+15/06/2022[00:24] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:24] :User Logged Out!
+
+15/06/2022[00:27] :User Logged In!
+15/06/2022[00:27] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:27] :Account Lock Of gfgfdg ,Having Account No. 78546422
+15/06/2022[00:28] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:28] :Account Unlock Of gfgfdg ,Having Account No. 78546422
+15/06/2022[00:28] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:28] :Searched Account Details Of: gfgfdg ,Having Account No. 78546422
+15/06/2022[00:28] :User Logged Out!
+
+15/06/2022[00:29] :User Logged In!
+15/06/2022[00:29] :Transaction History Of User Having Account No.: 94535577
+15/06/2022[00:29] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+15/06/2022[00:29] :Searched Using Name: Rohan Shah and Found 0 results
+15/06/2022[00:29] :Searched Using Name: Pratik Shaw and Found 2 results
+15/06/2022[00:29] :User Logged Out!
+
+15/06/2022[00:29] :User Logged In!
+15/06/2022[00:29] :Transaction History Of User Having Account No.: 94535577
+15/06/2022[00:29] :User Logged Out!
+
+15/06/2022[00:32] :User Logged In!
+15/06/2022[00:32] :Searched Using Name: Pratik Shaw and Found 2 results
+15/06/2022[00:32] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+15/06/2022[00:33] :Searched Using Name: Neha Shaw and Found 1 results
+15/06/2022[00:33] :User Logged Out!
+
+15/06/2022[00:36] :User Logged In!
+15/06/2022[00:36] :Searched Using Name: Pratik Shaw and Found 2 results
+15/06/2022[00:37] :User Logged Out!
+
+15/06/2022[02:39] :User Logged In!
+15/06/2022[02:39] :Searched Using Name: Pratik Shaw and Found 2 results
+15/06/2022[02:40] :User Logged Out!
+
+15/06/2022[02:44] :User Logged In!
+15/06/2022[02:44] :User Logged Out!
+
+15/06/2022[02:46] :User Logged In!
+15/06/2022[02:46] :Searched Using Name: Pratik Shaw and Found 2 results
+15/06/2022[02:46] :Searched Using Name: ggh and Found 0 results
+15/06/2022[02:46] :Searched Using Name: Pratik Shaw and Found 2 results
+15/06/2022[02:47] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+15/06/2022[02:47] :Transaction History Of User Having Account No.: 94535577
+15/06/2022[02:47] :Account Activated Of Pratik Shaw ,Having Account No. 94535577
+15/06/2022[02:47] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+15/06/2022[02:49] :User Logged In!
+15/06/2022[02:50] :User Logged Out!
+
+15/06/2022[02:50] :User Logged In!
+15/06/2022[02:51] :Searched Using Name: Pratik Shaw and Found 2 results
+15/06/2022[02:51] :Account Lock Of Pratik Shaw ,Having Account No. 94535577
+15/06/2022[02:53] :User Logged In!
+15/06/2022[02:53] :Searched Using Name: Pratik Shaw and Found 2 results
+15/06/2022[02:54] :Account Unlock Of Pratik Shaw ,Having Account No. 94535577
+15/06/2022[02:54] :Transaction History Of User Having Account No.: 94535577
+15/06/2022[02:54] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+15/06/2022[02:55] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+15/06/2022[02:56] :User Logged Out!
+
+17/06/2022[16:33] :User Logged In!
+17/06/2022[16:33] :Searched Using Name: tdttr and Found 0 results
+17/06/2022[16:33] :Searched Using Name: Pratik Shaw and Found 2 results
+17/06/2022[16:34] :User Logged Out!
+
+17/06/2022[17:48] :User Logged In!
+17/06/2022[17:48] :User Logged In!
+17/06/2022[17:48] :User Logged Out!
+
+17/06/2022[17:49] :User Logged Out!
+
+17/06/2022[17:49] :User Logged In!
+17/06/2022[17:49] :Searched Account Details Of: Rohan ,Having Account No. 27169384
+17/06/2022[17:49] :Searched Using Name: pratik and Found 0 results
+17/06/2022[17:50] :Searched Using Name: Rohan Raj and Found 0 results
+17/06/2022[17:50] :Searched Using Name: Rohan and Found 1 results
+17/06/2022[17:50] :Transaction History Of User Having Account No.: 27169384
+17/06/2022[17:50] :Searched Account Details Of: Rohan ,Having Account No. 27169384
+17/06/2022[17:51] :Searched Account Details Of: Rohan ,Having Account No. 27169384
+17/06/2022[17:51] :Changed Password
+17/06/2022[17:52] :Account Activated Of Rohan ,Having Account No. 27169384
+17/06/2022[17:52] :Searched Account Details Of: Rohan ,Having Account No. 27169384
+17/06/2022[17:52] :Transaction History Of User Having Account No.: 27169384
+17/06/2022[17:52] :User Logged Out!
+
+17/06/2022[17:53] :User Logged In!
+17/06/2022[17:53] :User Logged Out!
+
+18/06/2022[14:12] :User Logged In!
+18/06/2022[14:12] :Searched Account Details Of: Rittik Kumar Shaw ,Having Account No. 98160792
+18/06/2022[14:12] :Searched Using Name: Pratik Shaw and Found 2 results
+18/06/2022[14:14] :User Logged Out!
+
+19/06/2022[16:28] :User Logged In!
+19/06/2022[16:29] :User Logged Out!
+

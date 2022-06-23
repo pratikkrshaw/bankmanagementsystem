@@ -1,0 +1,23 @@
+09/06/2022[14:54] ::Password Changed!
+09/06/2022[14:57] :User Logged In!
+09/06/2022[14:57] :User Logged Out!
+
+09/06/2022[14:57] :User Logged In!
+09/06/2022[14:57] :User Logged Out!
+
+09/06/2022[15:21] :User Logged In!
+09/06/2022[15:22] :Account Lock Of Pratik Shaw ,Having Account No. 94535577
+09/06/2022[15:22] :User Logged Out!
+
+09/06/2022[16:17] :User Logged In!
+09/06/2022[16:17] :Transaction History Of User Having Account No.: 94535577
+09/06/2022[16:17] :Searched Account Details Of: Pratik Shaw ,Having Account No. 94535577
+09/06/2022[16:18] :Account Unlock Of Pratik Shaw ,Having Account No. 94535577
+09/06/2022[16:18] :User Logged Out!
+
+09/06/2022[21:41] :User Logged In!
+09/06/2022[21:41] :User Logged Out!
+
+18/06/2022[15:20] :User Logged In!
+18/06/2022[15:45] :User Logged Out!
+
